@@ -1,0 +1,12 @@
+lang=en
+author=Joshua F. Rountree
+module_author=Joshua F. Rountree
+homepage=http://joshuairl.com/
+copyright=(C) 2014 by Joshua F. Rountree <joshua@swodev.com>
+license=GPL
+
+index_root=Webmin Home
+index_title=Plex Media Server
+index_not_running_services=Plex Media Server is not running. 
+index_running_services=Plex Media Server is running. 
+index_ever=Plex Media Server was not found on your system. Maybe it is not installed, or your <a href='$2'>module configuration</a> is incorrect.

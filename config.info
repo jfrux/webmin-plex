@@ -1,0 +1,4 @@
+plex_conf=Path to Plex Preferences.xml
+start_plex=Command to start Plex Media Server
+stop_plex=Command to stop Plex Media Server
+restart_plex=Command to restart Plex Media Server

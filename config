@@ -1,0 +1,4 @@
+plex_conf=/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Preferences.xml
+start_plex=service plexmediaserver start
+stop_plex=service plexmediaserver stop
+restart_plex=service plexmediaserver restart
